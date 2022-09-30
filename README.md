@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anik</h1>
 <h3 align="center">A passionate web developer and problem solver.</h3>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suckstobeanik&label=Profile%20views&color=0e75b6&style=flat" alt="suckstobeanik" /> </p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suckstobeanik&label=Profile%20views&color=0e75b6&style=flat" alt="suckstobeanik" /> </p>/ -->
 
 - 🌱 I’m currently learning **Django Rest Framework, Figma.**
 
