@@ -34,4 +34,5 @@ You can click the Preview link to take a look at your changes.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A simple guideline to Web Development](https://medium.com/@anik.islam1494/a-simple-guideline-to-web-development-ecfa53c45c4c?source=rss-7f04bc51b8eb------2)
 <!-- BLOG-POST-LIST:END -->
