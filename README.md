@@ -31,9 +31,3 @@
 SucksToBeAnik/SucksToBeAnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Set up a Django Project from Scratch](https://medium.com/@anik.islam1494/how-to-set-up-a-django-project-from-scratch-bc158c1d6fbb?source=rss-7f04bc51b8eb------2)
-- [A simple guideline to Web Development](https://medium.com/@anik.islam1494/a-simple-guideline-to-web-development-ecfa53c45c4c?source=rss-7f04bc51b8eb------2)
-<!-- BLOG-POST-LIST:END -->
