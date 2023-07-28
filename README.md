@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anik</h1>
-<h3 align="center">Your friendly tech enthusiast</h3>
-<p align="left">Here you will find public repos on React, NextJS, FastAPI</p>
+<p align="center">Your friendly tech enthusiast</p>
+<h2 align="center">Here you will find public repos on React , NextJS , FastAPI</h2>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suckstobeanik&label=Profile%20views&color=0e75b6&style=flat" alt="suckstobeanik" /> </p>/ -->
