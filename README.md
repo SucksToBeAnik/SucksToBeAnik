@@ -4,9 +4,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suckstobeanik&label=Profile%20views&color=0e75b6&style=flat" alt="suckstobeanik" /> </p>/ -->
 
-- 🌱 I’m currently learning **Django Rest Framework, Figma.**
+- 🌱 I’m currently learning **React, FastAPI**
 
-- 💬 Ask me about **Python, JavaScript, Django, SASS/SCSS**
+- 💬 Ask me about **Python, JavaScript, React, FastAPI**
 
 - 📫 Email me at **anik.islam1494@gmail.com**
 
