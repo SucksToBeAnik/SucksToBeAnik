@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anik</h1>
-<h3 align="center">A passionate web developer and problem solver.</h3>
+<h3 align="center">Your friendly tech enthusiast</h3>
+<p align="left">Here you will find public repos on React, NextJS, FastAPI</p>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suckstobeanik&label=Profile%20views&color=0e75b6&style=flat" alt="suckstobeanik" /> </p>/ -->
 
-- 🌱 I’m currently learning **React, FastAPI**
+- 🌱 I’m currently learning **postgreSQL, Next.JS**
 
 - 💬 Ask me about **Python, JavaScript, React, FastAPI**
 
 - 📫 Email me at **anik.islam1494@gmail.com**
 
-- ⚡ Fun fact **I am a very creative short story writer.**
+- ⚡ Fun fact **My jokes are terrible. Yep.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
