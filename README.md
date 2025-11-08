@@ -22,6 +22,8 @@
 - [x] **ReactJS**
 - [x] **NextJS**
 - [x] **FastAPI**
+- [x] **AI Agents**
+- [x] **RAG**
 
 &nbsp;
 
